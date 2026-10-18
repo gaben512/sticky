@@ -450,7 +450,7 @@ msgstr "Csoport 1"
 
 #: usr/lib/sticky/sticky.py:884
 msgid "Left click to toggle notes"
-msgstr "Jegyzetek váltása a jobb egérgombbal"
+msgstr "Jegyzetek váltása a bal egérgombbal"
 
 #: usr/lib/sticky/sticky.py:885
 msgid "Middle click to toggle the manager"
