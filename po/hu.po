@@ -454,7 +454,7 @@ msgstr "Jegyzetek váltása a jobb egérgombbal"
 
 #: usr/lib/sticky/sticky.py:885
 msgid "Middle click to toggle the manager"
-msgstr "Szerkesztésre váltás a közepső egérgombbal"
+msgstr "Jegyzetek kezelésére váltás a közepső egérgombbal"
 
 #: usr/lib/sticky/sticky.py:903
 msgid "Manage Notes"
